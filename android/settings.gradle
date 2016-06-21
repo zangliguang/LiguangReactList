@@ -1,0 +1,3 @@
+rootProject.name = 'LiguangReactList'
+
+include ':app'
